@@ -1,0 +1,14 @@
+html{
+	background-color: aqua;
+}
+
+body{
+	border: 5px solid red;/*边框*/
+	margin: 10px 20px; /*外边距*/
+	padding: 10px 20px;/*内边距*/
+	text-align: left;
+}
+
+img{
+	height: 200px;
+}
